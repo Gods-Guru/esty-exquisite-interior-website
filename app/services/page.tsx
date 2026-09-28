@@ -14,7 +14,7 @@ export default function Services() {
 
       <main>
         {/* Hero Section */}
-        <section className="bg-[#fff]/50 px-6 pb-20 pt-44 lg:px-12 lg:pb-28">
+        <section className="bg-[#fff]/30 px-6 pb-20 pt-44 lg:px-12 lg:pb-28">
           <div className="mx-auto max-w-[1440px]">
             <Eyebrow>Services & projects</Eyebrow>
 
@@ -24,7 +24,7 @@ export default function Services() {
               <em>your everyday.</em>
             </h1>
 
-            <p className="mt-8 max-w-md text-sm leading-7 text-[#3b2b0d]/65">
+            <p className="mt-8 max-w-md text-sm leading-7 text-[#fff]/65">
               From a single room to a complete interior, we create spaces
               that are deeply personal and beautifully resolved.
             </p>
