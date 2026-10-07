@@ -186,13 +186,10 @@ export function ArrowLink({
 }
 
 export const imageUrls = {
-  living: "./public/esty-hero.png",
-  dining:
-    "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?auto=format&fit=crop&w=1200&q=85",
-  detail:
-    "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=1200&q=85",
-  bedroom:
-    "https://images.unsplash.com/photo-1617104678098-de229db51175?auto=format&fit=crop&w=1200&q=85",
+  living: "/esty-hero.png",
+  dining: "/int1.jpeg",
+  detail: "/int2.jpeg",
+  bedroom: "/int3.jpeg",
 };
 
 export function ContactForm() {

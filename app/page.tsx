@@ -92,19 +92,19 @@ export default function Home() {
 
             <div className="grid gap-10 md:grid-cols-3">
               <ProjectCard
-                src={imageUrls.dining}
+                src={"/int1.jpeg"}
                 title="Park Avenue"
                 category="Residential · New York"
               />
 
               <ProjectCard
-                src={imageUrls.detail}
+                src={"/int2.jpeg"}
                 title="House of Light"
                 category="Residential · Hudson Valley"
               />
 
               <ProjectCard
-                src={imageUrls.bedroom}
+                src={"/int3.jpeg"}
                 title="The Still House"
                 category="Hospitality · Brooklyn"
               />
