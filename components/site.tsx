@@ -123,11 +123,11 @@ export function Footer() {
           </p>
 
           <div className="flex flex-col gap-3 text-sm text-white/80">
-            <a href="mailto:hello@estyinteriors.com">
-              hello@estyinteriors.com
+            <a href="mailto:aigbedionesther97@gmail.com">
+              aigbedionesther97@gmail.com
             </a>
 
-            <a href="tel:+15550192344">+1 555 019 2344</a>
+            <a href="tel:+2349139688339">+234 913 9688 339</a>
 
             <a href="#instagram" className="flex items-center gap-2">
               Instagram
@@ -269,18 +269,18 @@ export function ContactDetails() {
     <div className="flex flex-col gap-5 text-sm text-[#3b2b0d]/75">
       <a
         className="flex items-center gap-3"
-        href="mailto:hello@estyinteriors.com"
+        href="mailto:aigbedionesther97@gmail.com"
       >
         <Mail size={16} />
-        hello@estyinteriors.com
+        aigbedionesther97@gmail.com
       </a>
 
       <a
         className="flex items-center gap-3"
-        href="tel:+15550192344"
+        href="tel:+2349139688339"
       >
         <Phone size={16} />
-        +1 555 019 2344
+        +234 913 968 8339
       </a>
 
       <a className="flex items-center gap-3" href="#instagram">

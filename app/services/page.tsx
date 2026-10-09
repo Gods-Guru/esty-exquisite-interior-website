@@ -93,19 +93,19 @@ export default function Services() {
 
             <div className="grid gap-12 md:grid-cols-3">
               <ProjectCard
-                src={'/image3.jpg'}
+                src={'/int4.jpeg'}
                 title="Park Avenue"
                 category="Residential · New York"
               />
 
               <ProjectCard
-                src={'/image2.jpg'}
+                src={'/int5.jpeg'}
                 title="House of Light"
                 category="Residential · Hudson Valley"
               />
 
               <ProjectCard
-                src={'/image1.jpg'}
+                src={'/int2.jpeg'}
                 title="The Still House"
                 category="Hospitality · Brooklyn"
               />
